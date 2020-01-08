@@ -2248,7 +2248,7 @@ ul {
   position: fixed;
   z-index: 9999 !important;
   width: 100%;
-  background-color: #ff0000;
+    background-color: #CDCDB4;
   box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.05);
   top: 0;
 }
@@ -2936,7 +2936,7 @@ ul {
 /********** gallery part css end **********/
 /* line 2, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_footer.scss */
 .footer-area {
-  background-color: #ff0000;
+  background-color: #CDCDB4;
 }
 
 /* line 4, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_footer.scss */
@@ -2963,14 +2963,14 @@ ul {
 }
 
 /* line 19, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_footer.scss */
-.footer-area .single-footer-widget h2 {
+back .single-footer-widget h2 {
   font-size: 24px;
   color: #fff;
 }
 
 @media (max-width: 991px) {
   /* line 19, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_footer.scss */
-  .footer-area .single-footer-widget h2 {
+  background .single-footer-widget h2 {
     font-size: 18px;
   }
 }
@@ -3065,7 +3065,7 @@ ul {
 
 /* line 83, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_footer.scss */
 .footer-area .single-footer-widget .click-btn {
-  background-color: #ff0000;
+  background-color: #CDCDB4;
   color: #fff;
   border-radius: 0;
   border-top-left-radius: 0px;
@@ -5187,7 +5187,7 @@ h6 {
 
 /* line 2, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_footer.scss */
 .footer-area {
-  background-color: #ff0000;
+  background-color: #363636;
 }
 
 /* line 4, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_footer.scss */
@@ -5581,7 +5581,7 @@ h6 {
 
 /* line 269, /Applications/MAMP/htdocs/palash/cl/august/200 FitFloss Fitness/fitfloss html/sass/_footer.scss */
 .footer-area .social_icon a {
-  background-color: #fe3233;
+  background-color: #9C9C9C;
   color: #fff;
   display: inline-block;
   width: 30px;
